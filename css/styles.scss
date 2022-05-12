@@ -1,0 +1,16 @@
+$side: 50px;
+// I LOVE SASS!!!!
+.construction {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding-top: 170px;
+    padding-right: $side;
+    padding-left: $side;
+
+    p {
+        font-family: 'Jacques Francois', serif;
+        font-size: 1.5em;
+    }
+}
